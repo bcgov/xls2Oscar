@@ -1,0 +1,2 @@
+pyGeometa (https://github.com/geopython/pygeometa)
+pyOscar (https://github.com/wmo-cop/pyoscar)
